@@ -1,0 +1,2 @@
+1、添加依赖包
+2、在preferences-TestNG-Disable default listeners 添加监听：com.testng.test.ExtentTestNGIReporterListener
